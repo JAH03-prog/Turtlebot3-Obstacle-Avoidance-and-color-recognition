@@ -73,7 +73,7 @@ This project showcases a ROS-based autonomous mobile robot developed by **Jah-Vi
 
 ## 📹 Video
 
-[![Watch on YouTube](https://youtu.be/uOf5WkH4RPs)
+[![Watch on YouTube](https://www.youtube.com/watch?v=uOf5WkH4RPs)
 
 ---
 
